@@ -3,7 +3,7 @@ langchain
 langchain-community
 langchain-openai
 langchain-groq
-faiss-cpu==1.7.4
+faiss-cpu
 sentence-transformers
 transformers
 torch
